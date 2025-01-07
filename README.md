@@ -23,6 +23,19 @@ Here are my handwritten notes of all the subjects in GATE CSE.<br>
 All the best for your GATE preparation! 🚀<br>
 Do share it with friends preparing for GATE!
 
+## Compilation of resources
+
+Here's the compilation of resources I followed/ would recommend to follow- 
+
+If u can afford, I would strongly recommend 'GO classes' coaching. Course price is 25900. It is worth it. If u take up the GO Classes, you need not follow any other material.
+
+You can use the promo code ```'SK0RON'``` to get 4-5% discount on the course price.
+
+https://www.goclasses.in/
+
+![image](https://github.com/user-attachments/assets/58954ba5-939b-4861-8eb6-f9f8a2118e10)
+
+
 ## Contact Me  
 
 Feel free to connect with me through the following platforms:  
